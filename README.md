@@ -110,7 +110,7 @@ https://www.reddit.com/r/CyberAutonomy/
 
   
 
-The website runs on the public IPFS network. In order to play it follow the steps below:
+The website runs on the public IPFS network. In order to view it follow the steps below:
 
   
 
@@ -159,7 +159,7 @@ The website runs on the public IPFS network. In order to play it follow the step
 
   
 
-Please note the website has been developed on a WQHD resolution(2560x1440) and is currently not responsive or optimized for mobile devices. For best gaming experience if you play in FHD(1920x1080) please set your browser zoom settings to 150%.
+Please note the website has been developed on a WQHD resolution(2560x1440) and is currently not responsive or optimized for mobile devices. For best experience if you view in FHD(1920x1080) please set your browser zoom settings to 150%.
 
 ## Acknowledgments
 
