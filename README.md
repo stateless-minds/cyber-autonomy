@@ -102,7 +102,7 @@ https://www.reddit.com/r/CyberAutonomy/
 
   
 
-## How to Play
+## How to Install
 
   
 
