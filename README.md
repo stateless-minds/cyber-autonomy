@@ -11,7 +11,7 @@
 
   
 
-![Logo](./assets/logo.png)
+![Logo](./web/logo.png)
 
   
 
@@ -32,33 +32,13 @@ Cyber Autonomy is the fruit of a year of applied research and a couple of years 
 
   
 
-<a  display="inline"  href="./assets/cyber-stasis.png?raw=true">
+<a  display="inline"  href="./web/cyber-stasis.png?raw=true">
 
   
 
   
 
-<img  src="./assets/cyber-stasis.png"  width="45%"  alt="Screenshot of Cyber Stasis"  title="Screenshot of Cyber Stasis">
-
-  
-
-  
-
-</a>
-
-  
-
-  
-
-  
-
-<a  display="inline"  href="./assets/cyber-acid.png?raw=true">
-
-  
-
-  
-
-<img  src="./assets/cyber-acid.png"  width="45%"  alt="Screenshot of Cyber Acid"  title="Screenshot of Cyber Acid">
+<img  src="./web/cyber-stasis.png"  width="45%"  alt="Screenshot of Cyber Stasis"  title="Screenshot of Cyber Stasis">
 
   
 
@@ -72,13 +52,33 @@ Cyber Autonomy is the fruit of a year of applied research and a couple of years 
 
   
 
-<a  display="inline"  href="./assets/cyber-witness.png?raw=true">
+<a  display="inline"  href="./web/cyber-acid.png?raw=true">
 
   
 
   
 
-<img  src="./assets/cyber-witness.png"  width="45%"  alt="Screenshot of Cyber Witness"  title="Screenshot of Cyber Witness">
+<img  src="./web/cyber-acid.png"  width="45%"  alt="Screenshot of Cyber Acid"  title="Screenshot of Cyber Acid">
+
+  
+
+  
+
+</a>
+
+  
+
+  
+
+  
+
+<a  display="inline"  href="./web/cyber-witness.png?raw=true">
+
+  
+
+  
+
+<img  src="./web/cyber-witness.png"  width="45%"  alt="Screenshot of Cyber Witness"  title="Screenshot of Cyber Witness">
 
   
 
@@ -180,13 +180,13 @@ The website runs on the public IPFS network. In order to view it follow the step
 
   
 
-![SetPinning](./assets/pin.png)
+![SetPinning](./web/pin.png)
 
   
 
   
 
-![PinToLocalNode](./assets/pin-to-local-node.png)
+![PinToLocalNode](./web/pin-to-local-node.png)
 
   
 
