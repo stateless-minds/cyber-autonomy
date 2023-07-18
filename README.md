@@ -132,14 +132,49 @@ The website runs on the public IPFS network. In order to view it follow the step
 
 3. Clone https://github.com/stateless-minds/kubo to your local machine, build it with `make build` and run it with the following command: `~/cmd/ipfs/ipfs daemon --enable-pubsub-experiment`
 
-
-4. Navigate to <a  href="https://ipfs.io/ipfs/Qma65fjuZDW1tcfFqseGWoHCCgEbGpyJ8a7ddzytbtF3zf">https://ipfs.io/ipfs/Qma65fjuZDW1tcfFqseGWoHCCgEbGpyJ8a7ddzytbtF3zf</a> and let's simulate the future together!
+  
+4. Follow the instructions here to open your config file: https://github.com/ipfs/kubo/blob/master/docs/config.md. Usually it's `~/.ipfs/config` on Linux. Add the following snippet to the `HTTPHeaders`:
 
   
 
+```{
+
   
 
-5. If you like the idea consider pinning it to your local node so that you become a permanent host of it while you have IPFS daemon running
+"API": {
+
+  
+
+"HTTPHeaders": {
+
+  
+
+"Access-Control-Allow-Origin": ["webui://-", "http://localhost:3000", "http://k51qzi5uqu5dgqwv1srli8ugm7d2oy60yhjyfkgb8x8ivp68qe8z1g7ggi9l9z.ipns.localhost:8080", "http://127.0.0.1:5001", "https://webui.ipfs.io"],
+
+  
+
+"Access-Control-Allow-Credentials": ["true"],
+
+  
+
+"Access-Control-Allow-Methods": ["PUT", "POST"]
+
+  
+
+}
+
+  
+
+},
+
+  
+
+```
+
+5. Navigate to <a  href="https://ipfs.io/ipns/k51qzi5uqu5dgqwv1srli8ugm7d2oy60yhjyfkgb8x8ivp68qe8z1g7ggi9l9z">Cyber Autonomy</a> and let's simulate the future together!
+  
+
+6. If you like the idea consider pinning it to your local node so that you become a permanent host of it while you have IPFS daemon running
 
   
 
