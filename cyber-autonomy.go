@@ -39,7 +39,7 @@ func (a *autonomy) Render() app.UI {
 				app.Div().Class("col-6").Body(
 					app.H1().Text("Cyber Stasis"),
 					app.P().Text("Post-money economy simulator in the form of a free fictional game based on gift economy that tests the hypothesis of having a market system without any exchange be it barters or money."),
-					app.A().Href("https://ipfs.io/ipfs/QmVbgUuNz28nmMn63spZRydzDQneLewwUCGLtZGBnSEx8U").Text("Try now"),
+					app.A().Href("https://ipfs.io/ipns/k51qzi5uqu5dgbw39up2jx8pjois5tv540smkhmiq46r5otlaqfoejrsjjtd8j").Text("Try now"),
 				).Style("max-width", "fit-content!important"),
 				app.Div().Class("col-6 u-hide--small u-align--center").Body(
 					app.Img().Src("web/cyber-stasis.png").Alt(""),
@@ -51,7 +51,7 @@ func (a *autonomy) Render() app.UI {
 				app.Div().Class("col-6").Body(
 					app.H1().Text("Cyber Acid"),
 					app.P().Text("Liquid democracy political simulator based on the automated data feed from the moneyless economy simulator Cyber Stasis."),
-					app.A().Href("https://ipfs.io/ipfs/QmUGE4LKpRboFi2wNRi35588gRKpgM22R5k96ab46jbK9g").Text("Try now"),
+					app.A().Href("https://ipfs.io/ipns/k51qzi5uqu5dj7sbshpejxkwj8qvttwegchimgx26pl1tu90rxaanpwefuoq5q").Text("Try now"),
 				).Style("max-width", "fit-content!important"),
 				app.Div().Class("col-6 u-hide--small u-align--center").Body(
 					app.Img().Src("web/cyber-acid.png").Alt(""),
@@ -63,7 +63,7 @@ func (a *autonomy) Render() app.UI {
 				app.Div().Class("col-6").Body(
 					app.H1().Text("Cyber Witness"),
 					app.P().Text("Decentralized media simulator based on the reporter and witnesses concept. It aims to be an alternative to mass media, surveillance, censorship, fact checkers and centralized control of news."),
-					app.A().Href("https://ipfs.io/ipfs/Qmb2sKM6j3zgBe8MfLfFHmEecrqEeT3JGZxWWzk5GFNYNs").Text("Try now"),
+					app.A().Href("https://ipfs.io/ipns/k51qzi5uqu5djy7mki67x1goaq6znsinuirxz2ii3zewbxhjj2ea79etw1zcsh").Text("Try now"),
 				).Style("max-width", "fit-content!important"),
 				app.Div().Class("col-6 u-hide--small u-align--center").Body(
 					app.Img().Src("web/cyber-witness.png").Alt(""),
