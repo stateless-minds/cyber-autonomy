@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/NYTimes/gziphandler"
-	"github.com/maxence-charriere/go-app/v9/pkg/app"
+	"github.com/maxence-charriere/go-app/v10/pkg/app"
 )
 
 // pubsub is a component that does a simple pubsub on ipfs. A component is a
@@ -200,7 +200,9 @@ func main() {
 	//
 	// This is done by calling the Route() function,  which tells go-app what
 	// component to display for a given path, on both client and server-side.
-	app.Route("/", &autonomy{})
+	app.Route("/", func() app.Composer{
+		return &autonomy{}
+	})
 
 	// Once the routes set up, the next thing to do is to either launch the app
 	// or the server that serves the app.

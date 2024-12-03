@@ -149,7 +149,7 @@ The website runs on the public IPFS network. In order to view it follow the step
 
   
 
-"Access-Control-Allow-Origin": ["webui://-", "http://localhost:3000", "http://k51qzi5uqu5dgqwv1srli8ugm7d2oy60yhjyfkgb8x8ivp68qe8z1g7ggi9l9z.ipns.localhost:8080", "http://127.0.0.1:5001", "https://webui.ipfs.io"],
+"Access-Control-Allow-Origin": ["webui://-", "http://localhost:3000", "http://k51qzi5uqu5dkn4etiu22tefi828dwrlc51hcm6kmdl8ghqsqsdddonfixhy55.ipns.localhost:8080", "http://127.0.0.1:5001", "https://webui.ipfs.io"],
 
   
 
@@ -171,7 +171,7 @@ The website runs on the public IPFS network. In order to view it follow the step
 
 ```
 
-5. Navigate to <a  href="https://ipfs.io/ipns/k51qzi5uqu5dgqwv1srli8ugm7d2oy60yhjyfkgb8x8ivp68qe8z1g7ggi9l9z">Cyber Autonomy</a> and let's simulate the future together!
+5. Navigate to <a  href="https://ipfs.io/ipns/k51qzi5uqu5dkn4etiu22tefi828dwrlc51hcm6kmdl8ghqsqsdddonfixhy55">Cyber Autonomy</a> and let's simulate the future together!
   
 
 6. If you like the idea consider pinning it to your local node so that you become a permanent host of it while you have IPFS daemon running
